@@ -8,6 +8,9 @@ This project implements a **Login** and **Signup** system for an Information Ext
 
 
 
+https://github.com/user-attachments/assets/5964b8cd-c954-4b57-b16f-aa441252d835
+
+
 ## Features
 - **User Signup**: New users can create an account by providing basic information.
 - **User Login**: Registered users can log in securely.
