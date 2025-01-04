@@ -2,7 +2,7 @@
 # Authentication System for Information Extraction App
 
 ## Description
-This project implements a **Login** and **Signup** system for an Information Extraction App. It is built with **React** and includes essential functionality for user authentication. The app provides users with a seamless way to register, log in, and access protected features.
+This project implements a **Login** and **Signup** system for an Information Extraction App et the home page to upload the id and extract the id's informations. It is built with **React** and includes essential functionality for user authentication. The app provides users with a seamless way to register, log in, and access protected features.The backend is developed with python using OCR  and will be deployed with  Streamlit and vercel .
 ## Demonstration
 
 
@@ -25,6 +25,7 @@ https://github.com/user-attachments/assets/5964b8cd-c954-4b57-b16f-aa441252d835
 - **CSS Modules**: For styling components.
 - **Node.js & Express (Optional)**: Backend for handling authentication requests.
 - **JSON Web Tokens (Optional)**: For secure session management.
+- **Python**: For secure session management.
 
 ## Installation
 
