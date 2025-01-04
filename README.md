@@ -6,7 +6,6 @@ This project implements a **Login** and **Signup** system for an Information Ext
 ## Demonstration
 
 
-https://github.com/user-attachments/assets/1de948c0-5a76-40af-bcb7-a482041d0609
 
 
 ## Features
