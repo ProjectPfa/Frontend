@@ -3,6 +3,11 @@
 
 ## Description
 This project implements a **Login** and **Signup** system for an Information Extraction App. It is built with **React** and includes essential functionality for user authentication. The app provides users with a seamless way to register, log in, and access protected features.
+## Demonstration
+
+
+https://github.com/user-attachments/assets/1de948c0-5a76-40af-bcb7-a482041d0609
+
 
 ## Features
 - **User Signup**: New users can create an account by providing basic information.
@@ -50,25 +55,15 @@ Submit the form to access the app.
 Authentication Flow
 Upon successful login, the user receives a token (if using a backend) and is redirected to the main dashboard.
 Unauthenticated users trying to access protected routes will be redirected to the login page.
-## API Endpoints (Optional)
-If you are using a backend server, ensure it supports the following endpoints:
-
-POST /api/auth/signup: For user registration.
-POST /api/auth/login: For user authentication.
-## Environment Variables
-Create a .env file in the root directory and include the following variables:
 
 
-REACT_APP_API_BASE_URL=http://localhost:5000/api
-## Screenshots
-home page
 
-sign in
-sign up 
+
 ## Contributeurs
 Salma Daigham 
 Tahri Imane
 Abid Hanane 
 Zinaoui Zakaria
 Ziad Ousoul
+Salma Farkhane
 Elbellarj Hamza
