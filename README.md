@@ -62,11 +62,16 @@ Unauthenticated users trying to access protected routes will be redirected to th
 
 
 
+
 ## Contributeurs
-Salma Daigham 
-Tahri Imane
-Abid Hanane 
-Zinaoui Zakaria
-Ziad Ousoul
-Salma Farkhane
-Elbellarj Hamza
+
+Ce projet a été développé avec la contribution de :
+- [**Salma Daigham**](https://github.com/salmasd5)(chef de project)
+- [**Imane Tahri**](https://github.com/imanetahri123)
+- [**Zakaria Zinaoui**](https://github.com/zakariaZinaOui)
+- [**Abid Hanane**](https://github.com/hananabid24)
+- [**Salma Farkhane**](https://github.com/salmafar)
+- [**Zyad Eloussoul**](https://github.com/zyadeloussoul)
+- [**Elbelaj Hamza**](https://github.com/hamzaelbellaj)
+
+
