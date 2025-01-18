@@ -23,11 +23,6 @@ Ces ajouts à la partie web rendent la gestion des informations encore plus prat
 This project implements a Login and Signup system for an information extraction application. The homepage allows users to upload an ID card and extract its information. The application is developed with React for the frontend and includes essential features for user authentication. It provides users with a smooth experience to register, log in, and access protected functionalities.
 
 The backend is developed in Python with integrated OCR (Optical Character Recognition) technology to automatically extract information from ID cards.
-## Ajout de l'option de scanner l'identité
-A new feature has been added to the web application: the ability to scan an ID card directly without needing to upload it. This option enhances accessibility and convenience for users, enabling them to quickly extract the required information through real-time scanning.
-
-
-![forntweb](https://github.com/user-attachments/assets/e38f1555-e41e-4c7c-9cee-59102d65de6b)
 
 ## Demonstration
 
