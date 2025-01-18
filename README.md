@@ -17,6 +17,12 @@ Sécurité renforcée : La 2FA garantit une protection accrue des comptes utilis
 Ces ajouts à la partie web rendent la gestion des informations encore plus pratique tout en assurant un haut niveau de sécurité.
 ## Interface mise a jour 
 ![web1](https://github.com/user-attachments/assets/447f1132-819a-4870-8771-8eb596ac5c53)
+## Demonstration mise a jour 
+
+
+
+https://github.com/user-attachments/assets/4381f6a5-e73f-40ed-9d6f-ebf66b6b9bf2
+
 
 
 ## Description
