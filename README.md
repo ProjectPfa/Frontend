@@ -2,7 +2,15 @@
 # Authentication System for Information Extraction App
 
 ## Description
-This project implements a **Login** and **Signup** system for an Information Extraction App et the home page to upload the id and extract the id's informations. It is built with **React** and includes essential functionality for user authentication. The app provides users with a seamless way to register, log in, and access protected features.The backend is developed with python using OCR  and will be deployed with  Streamlit and vercel .
+This project implements a Login and Signup system for an information extraction application. The homepage allows users to upload an ID card and extract its information. The application is developed with React for the frontend and includes essential features for user authentication. It provides users with a smooth experience to register, log in, and access protected functionalities.
+
+The backend is developed in Python with integrated OCR (Optical Character Recognition) technology to automatically extract information from ID cards.
+## Ajout de l'option de scanner l'identité
+A new feature has been added to the web application: the ability to scan an ID card directly without needing to upload it. This option enhances accessibility and convenience for users, enabling them to quickly extract the required information through real-time scanning.
+
+
+![forntweb](https://github.com/user-attachments/assets/e38f1555-e41e-4c7c-9cee-59102d65de6b)
+
 ## Demonstration
 
 
